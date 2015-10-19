@@ -42,6 +42,8 @@ There's a better approach: help your clients' websites COPE
 
 - Your CMS should be conforming to the site's content.
 - COPE: Create Once, Publish Everywhere
+- Allow for Sustainable Content; content that can be created by the client again and again.
+- 'Cowboy Coding' extends into using a CMS: no plan for streams, elements, content = a mess
 
 **Title Thoughts:**
 - Planning for a CMS
@@ -50,9 +52,20 @@ There's a better approach: help your clients' websites COPE
 - Content management best practices
 - Getting the Most out of Your CMS
 
+**Types of Structures**
+- Streams
+- Pages
+- Singles (Content you'd *never* need two of; like Contact Us)
+
 Not everybody needs to see every field on every entry:
 - Add user roles + hide fields that certain types don't need.
 - Clear admin = clear objectives
 If they can clearly see what content is used where (and how it's used),
 it emphasizes to the client WHAT this entry is for, and how it fits into
 the overall site architecture.
+
+
+## Resources
+- [Craft Architecture (Stack Exchange)](http://craftcms.stackexchange.com/questions/4460/content-modeling-for-site-architecture-recommendations)
+- [Ben: Content Strategy with Craft](https://straightupcraft.com/presentations/intro-content-strategy-peers-2015)
+- [Modular Content](https://www.newfangled.com/the-way-you-design-web-content-is-about-to-change/)
