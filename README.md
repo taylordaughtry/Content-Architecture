@@ -44,6 +44,7 @@ There's a better approach: help your clients' websites COPE
 - COPE: Create Once, Publish Everywhere
 - Allow for Sustainable Content; content that can be created by the client again and again.
 - 'Cowboy Coding' extends into using a CMS: no plan for streams, elements, content = a mess
+- Content should be related: products related to blog posts, videos related to Products/Blog Posts. Related elements = higher ROI per-element. (Make the content work for the client.)
 
 **Title Thoughts:**
 - Planning for a CMS
