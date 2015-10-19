@@ -19,7 +19,7 @@ There's a better approach: help your clients' websites COPE
 - Not taking advantage of the 'Management System': you're still thinking
 	page. 
 
-## Possible Titles
+## Title Brainstorming
  - Getting The Most Out of Your CMS
  - Breaking out of The Page: Getting The Most Out of Your CMS
  - Where The Hell is That Field: Better Content Management
