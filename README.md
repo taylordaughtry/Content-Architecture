@@ -1,2 +1,58 @@
-# content-architecture
-Get the most out of the CMS: Help your clients COPE
+# Content Architecture
+
+Even with a proper CMS, most developers tend to get stuck in the 'page' mindset.
+&ldquo;*This blog entry just needs a title, body, and some tags...*&rdquo; is
+something you'll see quite often in the Admin panels of most websites.
+
+Here's the problem: that's not using the 'System' behind the site: what if that
+blog post is displayed on various pages of the site with tons of different
+needs? (Excerpts, videos, audio files, image sizes — the list goes on&hellip;)
+
+There's a better approach: help your clients' websites COPE
+
+## Help your websites COPE
+
+- Most developers tend to use the CMS as an extended 'blog' system: they
+	think of content on a 'per-page' basis. 
+- 'Blog' entry: include a title, body, maybe some tags they're using on
+	the page. 
+- Not taking advantage of the 'Management System': you're still thinking
+	page. 
+
+## Possible Titles
+ - Getting The Most Out of Your CMS
+ - Breaking out of The Page: Getting The Most Out of Your CMS
+ - Where The Hell is That Field: Better Content Management
+ - Putting the 'System' back into Content Management Systems
+ - Start Using the 'System' Behind Your Content Management
+ - Building Better Systems for Content Management
+ - Time Wasted: Build a Better CMS
+ - Stop Wasting Time: Build a Better Content System
+ - Content Systems Best Practices
+ - Information Architecture: Building a Better CMS for Your Clients
+ - Client-Oriented Content Systems
+ - The Irresistable CMS: Building a Better Content System
+ - Build a CMS Your Clients Want to Use
+ - Your Clients Amplified: Getting The Most Out of A CMS
+ - Making Responsive Content Systems: Getting the Most Out of Your CMS
+ - COPEing Your Websites: Get The Most Out of Your CMS
+
+
+## Notes
+
+- Your CMS should be conforming to the site's content.
+- COPE: Create Once, Publish Everywhere
+
+**Title Thoughts:**
+- Planning for a CMS
+- Craft, for example, does it like this:
+- Needs to sound somewhat technical
+- Content management best practices
+- Getting the Most out of Your CMS
+
+Not everybody needs to see every field on every entry:
+- Add user roles + hide fields that certain types don't need.
+- Clear admin = clear objectives
+If they can clearly see what content is used where (and how it's used),
+it emphasizes to the client WHAT this entry is for, and how it fits into
+the overall site architecture.
