@@ -70,3 +70,4 @@ the overall site architecture.
 - [Craft Architecture (Stack Exchange)](http://craftcms.stackexchange.com/questions/4460/content-modeling-for-site-architecture-recommendations)
 - [Ben: Content Strategy with Craft](https://straightupcraft.com/presentations/intro-content-strategy-peers-2015)
 - [Modular Content](https://www.newfangled.com/the-way-you-design-web-content-is-about-to-change/)
+- [Site Structure and Planning](http://cognition.happycog.com/article/divide-and-conquer)
