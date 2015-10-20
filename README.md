@@ -71,3 +71,4 @@ the overall site architecture.
 - [Ben: Content Strategy with Craft](https://straightupcraft.com/presentations/intro-content-strategy-peers-2015)
 - [Modular Content](https://www.newfangled.com/the-way-you-design-web-content-is-about-to-change/)
 - [Site Structure and Planning](http://cognition.happycog.com/article/divide-and-conquer)
+- [ExpressionEngine Plan PDF](http://newism.com.au/downloads/EECI2010-USA/assets/index.php#/final-paper-plan)
