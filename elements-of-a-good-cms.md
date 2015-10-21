@@ -57,11 +57,11 @@ managing the design. That's what they've just paid thousands of dollars for.
 
 They should be *managing content.*
 
-### Provides Constraints Where Appropriate
+### Helps Content Editors Make Good Decisions
 
-As humans, when we're placed in an environment with constraints, it helps us to
-concentrate on what's actually important, and helps us create a clearer thought
-in our mind.
+They do this by providing constraints. As humans, when we're placed in an
+environment with constraints, it helps us to concentrate on what's actually
+important, and helps us create a clearer thought in our mind.
 
 The same is true in a good CMS: in almost every case, the end-user doesn't need
 the entire kitchen sink: they just need the faucet. A good CMS provides a
@@ -73,3 +73,6 @@ or this?*&rsquo; You've just paid thousands of dollars for the design and
 architecture of the site: trust their work. By pursuing simplicity, a good CMS
 provides a clear objective every time you enter content, and avoids choice
 paralysis.
+
+If you're not worried about how it will look [because that's already taken care
+of by the CMS), you'll be able to create better content more quickly.
