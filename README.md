@@ -24,6 +24,19 @@ needs? (Excerpts, videos, audio files, image sizes — the list goes on&hellip;)
 - Allow for Sustainable Content; content that can be created by the client again and again.
 - 'Cowboy Coding' extends into using a CMS: no plan for streams, elements, content = a mess
 - Content should be related: products related to blog posts, videos related to Products/Blog Posts. Related elements = higher ROI per-element. (Make the content work for the client.)
+- YAGNI: You aren't gonna need it. (One day, we might want to.. gets in the way
+of actually getting things done. [This refers to a CMS providing features.])
+- **MENTION THIS:** Jekyll is a static site generator.
+- Static flat-file CMS software is good for sites for lots of traffic.
+
+Big companies like the security of paying lots of money for platform. If it's
+expensive, if must be good. Often, these CMS softwares induce choice paralysis.
+The system gives you control of absolutely anything, and you're not sure where
+or what you should actually be changing and updating, and what you shouldn't.
+
+Always pursue URL stability. "If the address of the page changes, you lose your
+Facebook Likes." Not really related, just wanted to note it here. More useful
+for planning in a CMS.
 
 ## Resources
 - [Craft Architecture (Stack Exchange)](http://craftcms.stackexchange.com/questions/4460/content-modeling-for-site-architecture-recommendations)
