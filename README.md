@@ -80,6 +80,7 @@ the overall site architecture.
 ## Resources
 - [Craft Architecture (Stack Exchange)](http://craftcms.stackexchange.com/questions/4460/content-modeling-for-site-architecture-recommendations)
 - [Ben: Content Strategy with Craft](https://straightupcraft.com/presentations/intro-content-strategy-peers-2015)
+- [Create Once, Publish Everywhere (GOOD)](http://www.slideshare.net/richprowse/create-once-publish-every?ref=http://www.contentbear.co.uk/2014/07/17/create-once-publish-everywhere/)
 - [Modular Content](https://www.newfangled.com/the-way-you-design-web-content-is-about-to-change/)
 - [Site Structure and Planning](http://cognition.happycog.com/article/divide-and-conquer)
 - [ExpressionEngine Plan PDF](http://newism.com.au/downloads/EECI2010-USA/assets/index.php#/final-paper-plan)
