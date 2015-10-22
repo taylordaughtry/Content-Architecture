@@ -47,3 +47,4 @@ for planning in a CMS.
 - [ExpressionEngine Plan PDF](http://newism.com.au/downloads/EECI2010-USA/assets/index.php#/final-paper-plan)
 - [Elements of a Good CMS: I Can Smell Your CMS](https://speakerdeck.com/philhawksworth/i-can-smell-your-cms)
 - [Future Ready Content (Good)](http://alistapart.com/article/future-ready-content)
+- [Great list of Slide Decks](http://lanyrd.com/topics/content-management-systems/slides/)
